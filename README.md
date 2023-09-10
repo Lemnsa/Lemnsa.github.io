@@ -50,9 +50,9 @@ I will like to work more on box shadows on my future projects here.
 
 ## Author
 
-- Website - [lemnsa leger](https://www.your-site.com)
-- Frontend Mentor - [@leger](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@lemnsa](https://www.twitter.com/yourusername)
+
+- Frontend Mentor - [@leger](https://www.frontendmentor.io/profile/Lemnsa)
+- Twitter - [@lemnsa](https://twitter.com/lemnsa1/status/1700987370005524507?t=oMG09GrrKNH8Hdtnt6xbuw&s=19)
 
 
 
